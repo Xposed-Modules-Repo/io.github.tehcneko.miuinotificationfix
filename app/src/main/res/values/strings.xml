@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MIUI 通知修复</string>
+    <string name="xposed_description">禁用 MIUI 通知白名单</string>
+    <string-array name="scope">
+        <item>com.android.systemui</item>
+    </string-array>
+</resources>
